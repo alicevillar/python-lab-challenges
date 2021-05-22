@@ -19,7 +19,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3e2c709-41cb-405a-be33-615b8f537492" name="Default Changelist" comment="" />
+    <list default="true" id="a3e2c709-41cb-405a-be33-615b8f537492" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/PythonChallenges_Codio.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/functions_exercise3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/functions_exercise4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursion_exercise2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,11 +55,12 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Alice\PycharmProjects\PythonChallenges_Codio\functions" />
       <recent name="C:\Users\Alice\PycharmProjects\PythonChallenges_Codio\conditionals" />
       <recent name="C:\Users\Alice\PycharmProjects\PythonChallenges_Codio\lists" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.recursion_exercise2">
     <configuration name="lists_exercise1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="PythonChallenges_Codio" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -72,6 +82,32 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="recursion_exercise2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonChallenges_Codio" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/recursion_exercise2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.recursion_exercise2" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -138,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621627465494</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="update">
+      <created>1621627663048</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1621627663048</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -151,6 +194,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lists_lab exercises 1 and 2" />
@@ -161,9 +205,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="232" y="88" key="Vcs.Push.Dialog.v2" timestamp="1621627471353">
+    <state x="232" y="88" key="Vcs.Push.Dialog.v2" timestamp="1621627662488">
       <screen x="0" y="0" width="1280" height="690" />
     </state>
-    <state x="232" y="88" key="Vcs.Push.Dialog.v2/0.0.1280.690@0.0.1280.690" timestamp="1621627471353" />
+    <state x="232" y="88" key="Vcs.Push.Dialog.v2/0.0.1280.690@0.0.1280.690" timestamp="1621627662488" />
   </component>
 </project>
