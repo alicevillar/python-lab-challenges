@@ -9,7 +9,8 @@ Solved Python Lab Challenges from CODIO platform (www.codio.com). These exercise
 * 3. Functions
 * 4. Recursion
 
-
+[Solution](Basic%20Select/lists_exercise1.py)
+ 
 
 
 ## 1. LISTS 
@@ -19,7 +20,7 @@ Solved Python Lab Challenges from CODIO platform (www.codio.com). These exercise
 ```
   Write a program that takes a list of integers called numbers and replaces each element greater than 10 with a '*'.
   Print the new version of numbers.
-  Expected Output
+  => Expected Output:
   - If numbers = [30, 1, 20, 4] then you will print ['*', 1, '*', 4]
   - If numbers = [5, 9, 11, 23] then you will print [5, 9, '*', '*']
 ```
@@ -39,7 +40,7 @@ Solved Python Lab Challenges from CODIO platform (www.codio.com). These exercise
  ```
    Write a program that takes a list called strings that contains a random selection of strings.
    Your program should print the first string when arranged in alphabetical order.
-   Expected Output:
+   => Expected Output:
    - If strings = ['luck', 'cat', 'kid', 'house'] then you will print cat
    - If strings = ['duck', 'dddd', 'mouse', 'kite'] then you will print dddd
 ```
@@ -50,7 +51,7 @@ Solved Python Lab Challenges from CODIO platform (www.codio.com). These exercise
  Write a program that takes a list called numbers that contains integers in a sequence
  (the sequence is always increasing, never decreasing).
  Your program should add the next two numbers in the sequence, and then print the list.
-  Expected Output:
+  => Expected Output:
   - If numbers = [1, 2, 3, 4] then you will print [1, 2, 3, 4, 5, 6]
   - If numbers = [-5, -4, -3, -2] then you will print [-5, -4, -3, -2, -1, 0]
 ```
@@ -60,7 +61,7 @@ Solved Python Lab Challenges from CODIO platform (www.codio.com). These exercise
  ```
  Write a program that takes a list called numbers that has an even length.
  Your program should should insert an '*' between each element of the list. Then print the modified list.
-  Expected Output:
+ => Expected Output:
   - If numbers = [1, 2, 3, 4] then you will print: [1, '*', 2, '*', 3, '*', 4]
   - If numbers = [0, 0, 0, 0, 0, 0] then you will print: [0, '*', 0, '*', 0, '*', 0, '*', 0, '*', 0]
 ```
@@ -72,7 +73,7 @@ Solved Python Lab Challenges from CODIO platform (www.codio.com). These exercise
   Use the variable x as you write this program. x will represent a positive integer. Write a program that determines if x is between 0 and 25 or between 75 and 100.
   If yes, print the message:_ is between 0 and 25 or 75 and 100, where the blank would be the value of x.
   The program should do nothing if the value of x does not fit into either range.
- Expected Output
+  => Expected Output:
   - If x is 8, then the output would be: 8 is between 0 and 25 or 75 and 100.
   - If x is 80, then the output would be: 80 is between 0 and 25 or 75 and 100.
   - If x is 50, then the output would be blank (your program does not print anything).
@@ -85,8 +86,7 @@ Solved Python Lab Challenges from CODIO platform (www.codio.com). These exercise
    Write a program that determines if x is divisible by 5.
    If yes, print _ is divisible by 5, where the blank is the value of x. If no, print _ is not divisible by 5,
    where the blank is the value of x.
- 
-   Expected Output
+   => Expected Output:
    - If x is 50, then the output would be: 50 is divisible by 5 and even.
    - If x is 37, then the output would be: 37 is not divisible by 5 or it is odd.
 ```
@@ -97,7 +97,7 @@ Solved Python Lab Challenges from CODIO platform (www.codio.com). These exercise
   Write a program using the elif keyword  that determines if x is a primary color (red, blue, or yellow).
   If yes, print _ is primary color, where the blank is the value of x.
   If no, print _ is not a primary color, where the blank is the value of x.
-  Expected Output:
+  => Expected Output:
    - If x is red, then the output would be: red is a primary color.
    - If x is teal, then the output would be: teal is not a primary color.
 ```
@@ -109,8 +109,7 @@ Solved Python Lab Challenges from CODIO platform (www.codio.com). These exercise
    Write a program that determines if x is a vowel (a, e, i, o, and u ).
    If yes, print _ is a vowel, where the blank is the value of x.
    If no, print _ is not a vowel, where the blank is the value of x.
- 
-   Expected Output:
+   => Expected Output:
    - If x is a, then the output would be: a is a vowel.
    - If x is z, then the output would be: z is not a vowel.
 ```
@@ -131,7 +130,7 @@ Solved Python Lab Challenges from CODIO platform (www.codio.com). These exercise
  ```
   Write a function called avg that takes two parameters. Return the average of these two parameters.
   If the parameters are not numbers, return the string, Please use two numbers as parameters.
-   Expected Output
+  => Expected Output
    - If the function call is avg(10,25), then the function would return 17.5
    - If the function call is avg(10, "cat"), then the function would return Please use two numbers as parameters
 ```
@@ -154,7 +153,7 @@ Solved Python Lab Challenges from CODIO platform (www.codio.com). These exercise
   If the search term is located in the list, return the index of the matching element.
   The function should work even if there is a difference in capitalization.
   If the search term is not in the list, return -1.
-   Expected Output:
+  => Expected Output:
    - If the function call is search_list(["dog", "fish", "cat"], "Cat"), the the function would return 2
    - If the function call is search_list(["water", "Toy", "house"], "toy"), then the function would return 1
   - If the function call is search_list(["box", "car", "hat"], "mouse"), the the function would return -1
@@ -163,10 +162,9 @@ Solved Python Lab Challenges from CODIO platform (www.codio.com). These exercise
 #### Lab Exercise 4
 
  ```
-   Write a function called is_palindrome that takes a string as a parameter.
-   The function will return True if the string is a palindrome( is the same forward and backward).
- 
-  Expected Output:
+  Write a function called is_palindrome that takes a string as a parameter.
+  The function will return True if the string is a palindrome( is the same forward and backward).
+  => Expected Output:
   - If the function call is is_palindrome("level"), the the function would return True
   - If the function call is is_palindrome("house"), the the function would return False
 ```
@@ -179,7 +177,7 @@ Solved Python Lab Challenges from CODIO platform (www.codio.com). These exercise
   Write a recursive function called recursive_power that takes two integers as parameters.
   The first parameter is the base and the second parameter is the exponent.
   Return the base parameter to the power of the exponent.
-   Expected Output
+  => Expected Output
    - If the function call is recursive_power(5, 3), then the function would return 125
    - If the function call is recursive_power(4, 5), then the function would return 1024
 ```
