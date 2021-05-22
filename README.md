@@ -9,9 +9,6 @@ Solved Python Lab Challenges from CODIO platform (www.codio.com). These exercise
 * 3. Functions
 * 4. Recursion
 
-[Solution](Basic%20Select/lists_exercise1.py)
- 
-
 
 ## 1. LISTS 
 
@@ -24,7 +21,8 @@ Solved Python Lab Challenges from CODIO platform (www.codio.com). These exercise
   - If numbers = [30, 1, 20, 4] then you will print ['*', 1, '*', 4]
   - If numbers = [5, 9, 11, 23] then you will print [5, 9, '*', '*']
 ```
-
+ | 1 | [Solution](https://github.com/alicevillar/Python_Lab_Challenges/blob/main/lists/lists_exercise1.py)   
+ 
 #### Lab Exercise 2
 
 ```
