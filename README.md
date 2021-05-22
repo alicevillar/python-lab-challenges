@@ -4,10 +4,10 @@ Solved Python Lab Challenges from CODIO platform (www.codio.com). These exercise
   
  
 ## Summary 
-* 1. Lists
-* 2. Conditionals
-* 3. Functions
-* 4. Recursion
+* 1 Lists
+* 2 Conditionals
+* 3 Functions
+* 4 Recursion
 
 
 ## 1. LISTS 
