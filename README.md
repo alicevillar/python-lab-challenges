@@ -21,7 +21,7 @@ Solved Python Lab Challenges from CODIO platform (www.codio.com). These exercise
   - If numbers = [30, 1, 20, 4] then you will print ['*', 1, '*', 4]
   - If numbers = [5, 9, 11, 23] then you will print [5, 9, '*', '*']
 ```
- | 1 | [Solution](https://github.com/alicevillar/Python_Lab_Challenges/blob/main/lists/lists_exercise1.py)   
+ | Lists: Exercise 1 | [Solution](https://github.com/alicevillar/Python_Lab_Challenges/blob/main/lists/lists_exercise1.py)   
  
 #### Lab Exercise 2
 
@@ -32,6 +32,7 @@ Solved Python Lab Challenges from CODIO platform (www.codio.com). These exercise
   - If my_list = ['hi', 'hello'] then you will print ['hi', 'hello', 'hi', 'hello', 'hi', 'hello']
   - If my_list = [65, 111, 2, 81, 65, 32] then you will print [65, 111, 2, 81, 65, 32]
 ```
+ | Lists: Exercise 2 | [Solution](https://github.com/alicevillar/Python_Lab_Challenges/blob/main/lists/lists_exercise2.py)   
 
 #### Lab Exercise 3 
  
@@ -42,6 +43,7 @@ Solved Python Lab Challenges from CODIO platform (www.codio.com). These exercise
    - If strings = ['luck', 'cat', 'kid', 'house'] then you will print cat
    - If strings = ['duck', 'dddd', 'mouse', 'kite'] then you will print dddd
 ```
+ | Lists: Exercise 3 | [Solution](https://github.com/alicevillar/Python_Lab_Challenges/blob/main/lists/lists_exercise3.py)   
  
  #### Lab Exercise 4 
  
@@ -53,7 +55,8 @@ Solved Python Lab Challenges from CODIO platform (www.codio.com). These exercise
   - If numbers = [1, 2, 3, 4] then you will print [1, 2, 3, 4, 5, 6]
   - If numbers = [-5, -4, -3, -2] then you will print [-5, -4, -3, -2, -1, 0]
 ```
- 
+  | Lists: Exercise 4 | [Solution](https://github.com/alicevillar/Python_Lab_Challenges/blob/main/lists/lists_exercise4.py)   
+
  #### Lab Exercise 5 
  
  ```
@@ -63,6 +66,8 @@ Solved Python Lab Challenges from CODIO platform (www.codio.com). These exercise
   - If numbers = [1, 2, 3, 4] then you will print: [1, '*', 2, '*', 3, '*', 4]
   - If numbers = [0, 0, 0, 0, 0, 0] then you will print: [0, '*', 0, '*', 0, '*', 0, '*', 0, '*', 0]
 ```
+ | Lists: Exercise 5 | [Solution](https://github.com/alicevillar/Python_Lab_Challenges/blob/main/lists/lists_exercise5.py)   
+
 
 ## 2. CONDITIONALS 
 
@@ -76,6 +81,7 @@ Solved Python Lab Challenges from CODIO platform (www.codio.com). These exercise
   - If x is 80, then the output would be: 80 is between 0 and 25 or 75 and 100.
   - If x is 50, then the output would be blank (your program does not print anything).
 ```
+ | Conditionals: Exercise 1 | [Solution](https://github.com/alicevillar/Python_Lab_Challenges/blob/main/conditionals/conditionals_exercise1.py)   
 
  #### Lab Exercise 2
  ```
@@ -88,6 +94,8 @@ Solved Python Lab Challenges from CODIO platform (www.codio.com). These exercise
    - If x is 50, then the output would be: 50 is divisible by 5 and even.
    - If x is 37, then the output would be: 37 is not divisible by 5 or it is odd.
 ```
+ | Conditionals: Exercise 2 | [Solution](https://github.com/alicevillar/Python_Lab_Challenges/blob/main/conditionals/conditionals_exercise2.py)   
+
  #### Lab Exercise 3
 
  ```
@@ -99,6 +107,7 @@ Solved Python Lab Challenges from CODIO platform (www.codio.com). These exercise
    - If x is red, then the output would be: red is a primary color.
    - If x is teal, then the output would be: teal is not a primary color.
 ```
+ | Conditionals: Exercise 3 | [Solution](https://github.com/alicevillar/Python_Lab_Challenges/blob/main/conditionals/conditionals_exercise3.py)   
  
   #### Lab Exercise 4
 
@@ -111,7 +120,8 @@ Solved Python Lab Challenges from CODIO platform (www.codio.com). These exercise
    - If x is a, then the output would be: a is a vowel.
    - If x is z, then the output would be: z is not a vowel.
 ```
-   
+  | Conditionals: Exercise 4 | [Solution](https://github.com/alicevillar/Python_Lab_Challenges/blob/main/conditionals/conditionals_exercise4.py)   
+
   #### Lab Challenge - Month of the Year
 
  ```
@@ -119,7 +129,8 @@ Solved Python Lab Challenges from CODIO platform (www.codio.com). These exercise
   The variable will be a number from 1 to 12 (1 is January, 2 is February, etc.).
   Use a print statement to write the month to the screen.
 ```
- 
+  | Conditionals: Lab Challenge | [Solution](https://github.com/alicevillar/Python_Lab_Challenges/blob/main/conditionals/conditionals_lab_challenge.py)   
+
 
 ## 3. FUNCTIONS 
 
@@ -132,6 +143,7 @@ Solved Python Lab Challenges from CODIO platform (www.codio.com). These exercise
    - If the function call is avg(10,25), then the function would return 17.5
    - If the function call is avg(10, "cat"), then the function would return Please use two numbers as parameters
 ```
+  | Functions: Exercise 1 | [Solution](https://github.com/alicevillar/Python_Lab_Challenges/blob/main/functions/functions_exercise1.py)   
 
 #### Lab Exercise 2
 
@@ -143,7 +155,8 @@ Solved Python Lab Challenges from CODIO platform (www.codio.com). These exercise
    - If the function call is odds_or_evens(True, [13, 22, 8, 31]), the the function would return [22, 8]
    - If the function call is odds_or_evens(False, [13, 22, 8, 31]), the the function would return [13, 31]
 ```
- 
+   | Functions: Exercise 2 | [Solution](https://github.com/alicevillar/Python_Lab_Challenges/blob/main/functions/functions_exercise2.py)   
+
 #### Lab Exercise 3
 
  ```
@@ -156,7 +169,8 @@ Solved Python Lab Challenges from CODIO platform (www.codio.com). These exercise
    - If the function call is search_list(["water", "Toy", "house"], "toy"), then the function would return 1
   - If the function call is search_list(["box", "car", "hat"], "mouse"), the the function would return -1
 ```
-  
+  | Functions: Exercise 3 | [Solution](https://github.com/alicevillar/Python_Lab_Challenges/blob/main/functions/functions_exercise3.py)   
+
 #### Lab Exercise 4
 
  ```
@@ -166,7 +180,8 @@ Solved Python Lab Challenges from CODIO platform (www.codio.com). These exercise
   - If the function call is is_palindrome("level"), the the function would return True
   - If the function call is is_palindrome("house"), the the function would return False
 ```
-  
+  | Functions: Exercise 4 | [Solution](https://github.com/alicevillar/Python_Lab_Challenges/blob/main/functions/functions_exercise4.py)   
+
 ## 4. RECURSION 
 
 #### Lab Exercise 1
@@ -179,5 +194,5 @@ Solved Python Lab Challenges from CODIO platform (www.codio.com). These exercise
    - If the function call is recursive_power(5, 3), then the function would return 125
    - If the function call is recursive_power(4, 5), then the function would return 1024
 ```
+  | Recursion: Exercise 1 | [Solution](https://github.com/alicevillar/Python_Lab_Challenges/blob/main/recursion/recursion_exercise1.py)   
 
- 
